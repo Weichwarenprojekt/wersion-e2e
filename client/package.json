@@ -1,0 +1,11 @@
+{
+  "name": "wersion-e2e-client",
+  "version": "3.0.0",
+  "description": "Repo only for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
